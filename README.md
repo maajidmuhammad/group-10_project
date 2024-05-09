@@ -1,4 +1,4 @@
-# This project was a joint effort involving Abdimajid Mohamed,Dylen Gitaka, Rogers Machara,Habib Mohamed , and Paul Saitabau, each contributing their expertise to create a collaborative work
+## This project was a joint effort involving Abdimajid Mohamed,Dylen Gitaka, Rogers Machara,Habib Mohamed , and Paul Saitabau, each contributing their expertise to create a collaborative work
 
 ## Getting Started with Create React App
 
