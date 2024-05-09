@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# This project was a joint effort involving Abdimajid Mohamed,Dylen Gitaka, Rogers Machara,Habib Mohamed , and Paul Saitabau, each contributing their expertise to create a collaborative work
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
